@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 220px;
+    height: 220px;
+}
+
+body{
+    color: rgb(0, 0, 0);
+    font-family: tahoma;
+    font-size: 20px;
+    text-align: center;
+} 
+
+section{height: 100vh;}
+
+.fondoinicial{
+    background-image: url(../img/fondo.jpg);
+    background-size:  cover;
+}   
+
+h1{
+        font-size-adjust: 400px ;
+        color: #ffaa00;   
+        text-align: 40px;
+        font-weight: 100;
+        text-align: center;
+       
+}
+.fondoinicial{
+    font-size: 80px;
+}
+
+
+.Antiguas{
+    background : #979dac; 
+
+}
+
+.Actuales{
+    background : #979dac; 
+
+}
+
+.Clasicas{
+    background-image:url(../img/fondo2.jpg) ;
+    background-size: cover;
+
+}
+
+footer{
+    background-color: #ffffff;
+    color: #000000;
+    font-family: tahoma;
+    font-size: 20px;
+    text-align: center;
+
+}
